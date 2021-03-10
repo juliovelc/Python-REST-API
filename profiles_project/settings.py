@@ -1,3 +1,4 @@
+ar
 """
 Django settings for profiles_project project.
 
